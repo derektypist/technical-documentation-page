@@ -5,6 +5,9 @@ similar to https://codepen.io/freeCodeCamp/full/NdrKKL
 
 ## UX
 
+Information Architecture of the Computing Documentation.  It is structured into Introduction, HTML5, CSS3, JavaScript, etc.
+The Organising Principle is Topics or Interests.
+
 ### User Stories
 
 User Stories are taken from https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
