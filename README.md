@@ -5,6 +5,9 @@ similar to https://codepen.io/freeCodeCamp/full/NdrKKL
 
 ## UX
 
+This project is about computing documentation for careers and interests in computing.  Users can select a computing topic (e.g. JavaScript) via the navigation menu.
+Further links (e.g. w3schools.com) are provided in the reference section.
+
 Information Architecture of the Computing Documentation.  It is structured into Introduction, HTML5, CSS3, JavaScript, etc.
 The Organising Principle is Topics or Interests.
 
@@ -43,3 +46,13 @@ As a user, when I click on a navbar element, the page should navigate to the cor
 As a user, On regular sized devices (laptops, desktops), the element with id="navbar" should be shown on the left side of the screen and should always be visible to the user.
 
 As a user, My Technical Documentation page should use at least one media query.
+
+## Features
+
+Fixed Vertical Navigation Bar.  Ability to go to a topic without leaving the web page.
+
+## Technologies
+
+This project uses HTML5, CSS3 (Internal) and Bootstrap 4.4.1.  Other technologies include the font libraries
+(e.g. Roboto) at https://fonts.google.com.
+
