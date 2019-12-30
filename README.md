@@ -60,6 +60,8 @@ As a user, On regular sized devices (laptops, desktops), the element with id="na
 
 As a user, My Technical Documentation page should use at least one media query.
 
+[Wireframes](wireframes/technical-documentation.png) are supplied.
+
 ## Features
 
 Fixed Vertical Navigation Bar.  Ability to go to a topic without leaving the web page.
