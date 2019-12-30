@@ -95,3 +95,17 @@ Remote setup at
     
 Any changes use the git push command.
 
+## Credits
+
+### Content
+
+Information on HTML5, CSS3, JavaScript, Bootstrap and Python were taken from https://www.w3schoools.com.
+
+Information on README File and GitHub were taken from https://courses.codeinstitute.net
+
+Information on User Story was taken from https://en.wikipedia.org/wiki/User_story (Accessed 30 December 2019).
+
+### Acknowledgements
+
+Links from British Computer Society (BCS), Institute of Mathematics and its Applications, w3schools.com, Cambridge Python User Group, Code Institute,
+Google Fonts, GitHub and Wikipedia.
