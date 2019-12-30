@@ -157,6 +157,7 @@
         <p></p>
         <p>How to write a comment in HTML</p>
         <code>&lt!-- This is a comment --&gt</code>
+        <p></p>
         <p>Comments are not displayed by the browser, but they can help you to document your source code.</p>
       </article>
     </section>
@@ -171,7 +172,7 @@
         <p>CSS3 describes how HTML elements should be displayed.</p>
         <p>Example - making the paragraph blue in colour using the font of Arial.</p>
 
-        <!-- Apply usage of code tags -->
+        <!-- Apply usage of code tags with &gt, &lt and &quot -->
         <code>
           p {
           <br><span class="indent">font-family: Arial, Verdana, sans-serif;</span>
@@ -179,17 +180,45 @@
           } <br>
         
         </code>
-
+        <p></p>
         <p>Writing the class of blue to use in any tag (e.g. p, li)</p>
         <code>
           .blue {
           <br><span class="indent">color: blue;</span><br>
           } <br>
-          
         </code>
+        <p></p>
         <p>Using the blue class in the p tag</p>
         <code>&ltp class=&quotblue&quot&gtComputing is fun&lt/p&gt</code>
         <p></p>
+
+        <p>Writing a comment in CSS3</p>
+        <code>/* This is a comment */</code>
+        <p></p>
+        <p>You can also use <a href="https://fonts.google.com" target="_blank" title="Google Fonts">Google Fonts</a> to choose other fonts (e.g. Roboto).</p>
+        <p>To use Font Roboto, copy this code into the &lthead&gt of your HTML Document. It must be used before the &ltlink&gt containing the custom CSS file (css/custom.css) or the &ltstyle&gt element.</p>
+        <code>&ltlink href=&quothttps://fonts.googleapis.com/css?family=Roboto&display=swap&quot rel=&quotstylesheet&quot&gt <br></code>
+        <p></p>
+        <p>To use this code before the &ltlink&gt element containing the custom CSS file (css/custom.css).</p>
+        <code>&ltlink href=&quothttps://fonts.googleapis.com/css?family=Roboto&display=swap&quot rel=&quotstylesheet&quot&gt <br>
+        &ltlink href=&quotcss/custom.css&quot rel=&quotstylesheet&quot&gt<br></code>
+        <p></p>
+        <p>To use this code before the &ltstyle&gt element.</p>
+        <code>&ltlink href=&quothttps://fonts.googleapis.com/css?family=Roboto&display=swap&quot rel=&quotstylesheet&quot&gt <br>
+        &ltstyle&gt <br>
+        body {
+        <br><span class="indent">font-family: &quotRoboto&quot, Arial, Verdana, sans-serif;</span>
+        <br><span class="indent">height: 100%;</span>
+        <br>}
+        <br>&lt/style&gt</code>
+        <p></p>
+        <p>You can refer to other examples such as:
+        <!-- Provide links to other websites such as GitHub Repositories -->
+        <ul>
+          <li><a href="https://github.com/derektypist/bootstrap" target="_blank" title="Derek's Bootstrap Page">Derek's Bootstrap Page</a></li>
+          <li><a href="https://github.com/derektypist/tribute-page" target="_blank" title="Derek's Tribute Page">Derek's Tribute Page</a></li>
+          <li><a href="https://github.com/derektypist/derek-dhammaloka-cv" target="_blank" title="Derek Dhammaloka CV">Derek Dhammaloka CV</a></li>
+        </ul></p>
       </article>
     </section>
 
