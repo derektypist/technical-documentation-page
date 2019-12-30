@@ -6,9 +6,22 @@ similar to https://codepen.io/freeCodeCamp/full/NdrKKL
 ## UX
 
 This project is about computing documentation for careers and interests in computing.  Users can select a computing topic (e.g. JavaScript) via the navigation menu.
-Further links (e.g. w3schools.com) are provided in the reference section.
+Further links (e.g. w3schools.com) are provided in the references section.  Also available in CSS3, JavaScript, Bootstrap, Python, GitHub and Groups.
 
-Information Architecture of the Computing Documentation.  It is structured into Introduction, HTML5, CSS3, JavaScript, etc.
+Information Architecture of the Computing Documentation.  It is structured into
+
+    Introduction
+    HTML5
+    CSS3
+    JavaScript
+    Bootstrap
+    GitHub
+    README File
+    Python
+    Computing Terms
+    Groups
+    References
+
 The Organising Principle is Topics or Interests.
 
 ### User Stories
