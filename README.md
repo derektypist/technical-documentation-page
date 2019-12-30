@@ -105,6 +105,10 @@ Information on README File and GitHub were taken from https://courses.codeinstit
 
 Information on User Story was taken from https://en.wikipedia.org/wiki/User_story (Accessed 30 December 2019).
 
+### Media
+
+Used Google Fonts for Roboto and Roboto Mono.
+
 ### Acknowledgements
 
 Links from British Computer Society (BCS), Institute of Mathematics and its Applications, w3schools.com, Cambridge Python User Group, Code Institute,
