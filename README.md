@@ -77,3 +77,21 @@ This project uses HTML5, CSS3 (Internal) and Bootstrap 4.4.1.  Other technologie
 
 ## Testing
 
+Go to https://codepen.io/freeCodeCamp/pen/MJjpwO, select the Test Suite of Technical Documentation Page.  Ensure all
+tests have passed.  If some have failed, go back and edit the code until all tests have passed.
+
+All the links are manually tested to ensure that they are pointing to the correct destination.  All links open in a
+new window.
+
+Resize the width of the browser window, to see that the vertical navigation bar is fixed.
+
+## Deployment
+
+This project is live at https://derektypist.github.io/technical-documentation-page at the master branch.
+
+Remote setup at
+
+    git remote add origin https://github.com/derektypist/technical-documentation-page
+    
+Any changes use the git push command.
+
